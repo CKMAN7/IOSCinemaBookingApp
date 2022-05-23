@@ -1,0 +1,30 @@
+PODS:
+  - Charts (3.6.0):
+    - Charts/Core (= 3.6.0)
+  - Charts/Core (3.6.0)
+  - Koloda (5.0.1):
+    - pop (~> 1.0)
+  - pop (1.0.12)
+  - youtube-ios-player-helper (0.1.6)
+
+DEPENDENCIES:
+  - Charts
+  - Koloda
+  - youtube-ios-player-helper
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - Charts
+    - Koloda
+    - pop
+    - youtube-ios-player-helper
+
+SPEC CHECKSUMS:
+  Charts: b1e3a1f5a1c9ba5394438ca3b91bd8c9076310af
+  Koloda: d07b9199a383abc5898b62aa945a599f5e7c0c4b
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  youtube-ios-player-helper: 21ab92db027c7ff86cb17a3843a3f6eafc8158d2
+
+PODFILE CHECKSUM: 3a63c677cfb5b7f1550b696f09c7fef45472556e
+
+COCOAPODS: 1.11.3
