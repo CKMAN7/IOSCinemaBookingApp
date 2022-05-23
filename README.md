@@ -1,7 +1,7 @@
 # 42889 iOS Development Assignment3
 # CinemaBookingSystem
 ## Github URL
-https://github.com/CKMAN7/IOSCinemaBookingApp/tree/main
+https://github.com/CKMAN7/IOSCinemaBookingApp
 ## Implementations
 
  - Build programming environment for Mac
