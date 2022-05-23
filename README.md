@@ -20,10 +20,5 @@ Contribution: Liu Yu 50%， Kun Chen 50%
     Kun Chen   13817085      13817085@student.uts.edu.au
 
 
-## Copyright
-
-    Copyright 2022.5.19
-    
-    Yu Liu & Kun Chen
 
     
